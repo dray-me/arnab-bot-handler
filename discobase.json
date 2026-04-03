@@ -1,0 +1,9 @@
+{
+  "name": "Arnab",
+  "version": "1.0.0",
+  "watch": {
+    "directories": ["commands", "events", "functions"],
+    "ignore": ["logs", "node_modules", "private"],
+    "extensions": [".py"]
+  }
+}
