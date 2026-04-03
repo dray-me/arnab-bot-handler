@@ -1,0 +1,5 @@
+{
+  "name": "Arnab Bot Handler",
+  "description": "A production-ready, modular, and scalable Discord bot handler framework implemented in Python.",
+  "requestFramePermissions": []
+}
