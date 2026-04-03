@@ -1,0 +1,6 @@
+discord.py
+watchdog
+motor
+python-dotenv
+aiohttp
+pymongo
